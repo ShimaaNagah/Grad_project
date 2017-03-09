@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Grad_project</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="account_pic">the profile picture</string>
+    <string name="account_name">Account name</string>
+    <string name="account_email">www.website.com</string>
+    <string name="action_settings">Settings</string>
+    <string name="events">View event</string>
+    <string name="free_halls">Free halls</string>
+    <string name="schedule">schedule</string>
+    <string name="share_app">Share APP</string>
+    <string name="search">Search</string>
+    <string name="notifications">Notifications</string>
+    <string name="Map">Map</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
